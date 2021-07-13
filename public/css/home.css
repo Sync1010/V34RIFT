@@ -1,0 +1,28 @@
+.middle {
+    font-size: 30px;
+    text-align: center;
+}
+
+.link {
+    text-decoration: underline;
+    font-family: "SFUIText-Bold";
+    background-clip: text;
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+    background-image: url("https://cdn.discordapp.com/attachments/857677913066962994/861715737310789662/InGame-Banner.jfif");
+    background-size: cover;
+    background-position: center;
+}
+
+.footer {
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url("https://cdn.discordapp.com/attachments/857677913066962994/861715737310789662/InGame-Banner.jfif");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
